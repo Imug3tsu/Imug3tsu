@@ -26,3 +26,9 @@ alt="git" width="120" height="40" /></a>
 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
 <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" alt="git" width="80" height="40" /></a>
+
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+<img src="https://cdn.freebiesupply.com/logos/large/2x/spring-3-logo-png-transparent.png" alt="git" width="40" height="40" /></a>
+
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+<img src="https://junit.org/junit4/images/junit5-banner.png" alt="git" width="120" height="40" /></a>
