@@ -2,7 +2,7 @@
 
    <h3 align="center">Un apasionado Desarrollador de JAVA</h3>
    
-• 🌱 Actualmente estoy aprendiendo Spring y Api Rest
+• 🌱 Actualmente estoy aprendiendo Spring
 
 • 👨‍💻 Todos mis proyectos están disponibles en mi [Portfolio](https://github.com/Imug3tsu/--Proyectos--)
 
@@ -30,5 +30,3 @@ alt="git" width="120" height="40" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
 <img src="https://cdn.freebiesupply.com/logos/large/2x/spring-3-logo-png-transparent.png" alt="git" width="40" height="40" /></a>
 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-<img src="https://junit.org/junit4/images/junit5-banner.png" alt="git" width="120" height="40" /></a>
