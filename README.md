@@ -2,7 +2,6 @@
 
    <h3 align="center">Un apasionado Desarrollador de JAVA</h3>
    
-• 🌱 Actualmente estoy aprendiendo Spring
 
 • 👨‍💻 Todos mis proyectos están disponibles en mi [Portfolio](https://github.com/Imug3tsu/--Proyectos--)
 
