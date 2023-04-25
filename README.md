@@ -5,7 +5,7 @@
 
 • 👨‍💻 Todos mis proyectos están disponibles en mi [Portfolio](https://github.com/Imug3tsu/--Proyectos--)
 
-• 💬 Pregúntame sobre Java, Maven, MySQL, Git y más
+• 💬 Pregúntame sobre Java, Spring, MySQL, Git y más
 
 • 📫 Cómo contactarme pabloguzman.dev@gmail.com
 
