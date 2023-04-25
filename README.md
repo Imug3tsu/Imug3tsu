@@ -30,4 +30,4 @@ alt="git" width="120" height="40" /></a>
 <img src="https://cdn.freebiesupply.com/logos/large/2x/spring-3-logo-png-transparent.png" alt="git" width="40" height="40" /></a>
 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png" alt="git" width="40" height="40" /></a>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png" alt="git" width="120" height="40" /></a>
