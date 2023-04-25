@@ -19,15 +19,18 @@ width="40" height="40" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /></a>
 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+<a href="https://maven.apache.org/" target="_blank" rel="noreferrer">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Apache_Maven_logo.svg/1024px-Apache_Maven_logo.svg.png"
-alt="git" width="120" height="40" /></a>
+alt="maven" width="120" height="40" /></a>
 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-<img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" alt="git" width="80" height="40" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+<img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" alt="mysql" width="80" height="40" /></a>
 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-<img src="https://cdn.freebiesupply.com/logos/large/2x/spring-3-logo-png-transparent.png" alt="git" width="40" height="40" /></a>
+<a href="https://spring.io/" target="_blank" rel="noreferrer">
+<img src="https://cdn.freebiesupply.com/logos/large/2x/spring-3-logo-png-transparent.png" alt="spring" width="40" height="40" /></a>
 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png" alt="git" width="120" height="40" /></a>
+<a href="https://www.mongodb.com/es" target="_blank" rel="noreferrer">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png" alt="mongodb" width="120" height="40" /></a>
+
+<a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Postman_%28software%29.png" alt="postman" width="120" height="40" /></a>
