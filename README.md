@@ -9,7 +9,7 @@
 
 • 📫 Cómo contactarme pabloguzman.dev@gmail.com
 
-• 📄 Conoce mis experiencias [Curriculum Vitae](https://drive.google.com/file/d/1-Kid2Sbk8nGKXSoxwKbpmXNMgoyUR0Y8/view?usp=share_link)
+• 📄 Conoce mis experiencias [Curriculum Vitae](https://drive.google.com/file/d/1fvVS7YnbpRWAro9zAHnogKBI-uXQjzIy/view?usp=sharing)
 
 <h3 align="left">Lenguajes y Tecnologias:</h3><br>
 <a align="left" href="https://www.java.com" target="_blank" rel="noreferrer">
