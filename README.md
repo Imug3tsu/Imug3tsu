@@ -3,13 +3,15 @@
    <h3 align="center">Un apasionado Desarrollador de JAVA</h3>
    
 
-• 👨‍💻 Todos mis proyectos están disponibles en mi [Portfolio](https://github.com/Imug3tsu/--Proyectos--)
+• 📖 <b>Estudiando Javascript  </b> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width=20>
 
-• 💬 Pregúntame sobre Java, Spring, MySQL, Git y más
+• 👨‍💻 <b>Todos mis proyectos están disponibles en mi</b> [Portfolio](https://github.com/Imug3tsu/--Proyectos--)
 
-• 📫 Cómo contactarme pabloguzman.dev@gmail.com
+• 💬 <b>Pregúntame sobre Java, Spring, MySQL, Git y más</b>
 
-• 📄 Conoce mis experiencias [Curriculum Vitae](https://drive.google.com/file/d/1-gQg-Xk4RDGUKQD_xGiXwopuSZVUdLj2/view?usp=drive_link)
+• 📫 <b>Cómo contactarme pabloguzman.dev@gmail.com</b>
+
+• 📄 <b>Conoce mis experiencias</b> [Curriculum Vitae](https://drive.google.com/file/d/1-gQg-Xk4RDGUKQD_xGiXwopuSZVUdLj2/view?usp=drive_link)
 
 <h3 align="left">Lenguajes y Tecnologias:</h3><br>
 <a align="left" href="https://www.java.com" target="_blank" rel="noreferrer">
