@@ -1,6 +1,6 @@
 <h1 align="center">Hola 👋 Soy Pablo</h1>
 
-   <h3 align="center">Un apasionado Desarrollador de JAVA</h3>
+   <h3 align="center">Un apasionado Desarrollador de Java</h3>
    
 
 • 📖 <b>Estudiando Javascript  </b> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width=20>
